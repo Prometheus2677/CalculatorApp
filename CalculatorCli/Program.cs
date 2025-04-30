@@ -1,4 +1,4 @@
-﻿using CalculatorApp;
+using CalculatorApp;
 
 Console.WriteLine("Simple Calculator");
 var calc = new Calculator();

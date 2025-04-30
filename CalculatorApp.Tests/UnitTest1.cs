@@ -1,4 +1,4 @@
-﻿namespace CalculatorApp.Tests;
+namespace CalculatorApp.Tests;
 
 public class UnitTest1
 {

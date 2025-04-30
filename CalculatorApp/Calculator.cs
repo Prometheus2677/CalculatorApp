@@ -1,5 +1,6 @@
 namespace CalculatorApp;
 
+#pragma warning disable S2325 // Methods that don't access instance data should be static
 public class Calculator
 {
     public int Add(int a, int b) => a + b;
@@ -14,3 +15,4 @@ public class Calculator
         return a / b;
     }
 }
+#pragma warning restore S2325

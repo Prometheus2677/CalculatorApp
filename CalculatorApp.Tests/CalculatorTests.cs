@@ -1,4 +1,5 @@
 using CalculatorApp;
+
 using Xunit;
 
 namespace CalculatorApp.Tests;
